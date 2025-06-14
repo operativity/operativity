@@ -1,4 +1,4 @@
-# 👋 Hey! Ich bin steuerhinterzieher, ein Full-Stack-Entwickler
+# 👋 Hey! Ich bin yuki, ein Full-Stack-Entwickler
 
 🌱 I’m currently learning **Openshift**  
 🤝 I’m looking for help with **DevOps**  
