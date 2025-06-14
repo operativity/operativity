@@ -1,4 +1,3 @@
-```nohighlight
 ```shell
 __     __  _   _ _  __   ___ 
 \ \   / / | | | | |/ /  |_ _|
@@ -8,7 +7,7 @@ __     __  _   _ _  __   ___
                              
 -----------------------------------------
 
-$ whoami
+<span class="green">$ whoami</span>
 yuki
 
 $ pip install -yuki -goat
